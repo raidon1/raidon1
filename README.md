@@ -1,6 +1,6 @@
 ### Olá, me chamo Raidon!
 
-- 🔭 trabalho com back end
+- 🔭 trabalho como front end
 - 🌱 Atualmente estou aprendo html, css, java script, java.
 
 <div align="center">
